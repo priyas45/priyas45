@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Python developer
-- 🌱 I’m currently learning  Artificial Intelligence
+- 🌱 I’m currently learning   Data Science & Artificial Intelligence
 - 👯 I’m looking to collaborate on  ML projects
 - 🤔 I’m looking for help to learn AI
 - 💬 Ask me about Python
